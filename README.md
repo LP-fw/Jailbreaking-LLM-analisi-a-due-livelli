@@ -2,6 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![Libraries](https://img.shields.io/badge/Libraries-Pandas%20%7C%20Scikit--Learn%20%7C%20Seaborn-brightgreen)
+![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-%F0%9F%A4%97-yellow)
+![](https://img.shields.io/badge/Transformer-all--MiniLM--L6--v2-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ---
