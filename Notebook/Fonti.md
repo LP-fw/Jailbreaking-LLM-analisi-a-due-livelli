@@ -1,5 +1,7 @@
+![References](https://img.shields.io/badge/References-Yes-informational)
+
 ## Malicious Prompt Detection Dataset (MPDD)
-A balanced dataset of 40k prompts for detecting malicious intent in AI inputs
+Dataset of 40k prompts for detecting malicious intent in AI inputs
 https://www.kaggle.com/datasets/mohammedaminejebbar/malicious-prompt-detection-dataset-mpdd
 
 ## RAPID RESPONSE: MITIGATING LLM JAILBREAKS WITH A FEW EXAMPLES
