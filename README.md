@@ -24,6 +24,7 @@ rispetto al modello basato su feature statistiche.
 
 
 ## Metodologia
+(flusso di lavoro workflow procedura...approfondire!!=
 - Pulizia e preparazione del dataset
 - Feature engineering (livello 1)
 - Classificazione statistica
@@ -44,14 +45,14 @@ rispetto al modello basato su feature statistiche.
 - Sentence Transformers (all-MiniLM-L6-v2)
 
 
-## Fonti e bibliografia
+#### Fonti e bibliografia
 ![Dataset](https://img.shields.io/badge/Dataset-Available-blue)
-### Malicious Prompt Detection Dataset (MPDD)
+##### Malicious Prompt Detection Dataset (MPDD)
 Dataset of 40k prompts for detecting malicious intent in AI inputs
 https://www.kaggle.com/datasets/mohammedaminejebbar/malicious-prompt-detection-dataset-mpdd
 
 ![Papers](https://img.shields.io/badge/Papers-Cited-success)
-### RAPID RESPONSE: MITIGATING LLM JAILBREAKS WITH A FEW EXAMPLES
+##### RAPID RESPONSE: MITIGATING LLM JAILBREAKS WITH A FEW EXAMPLES
 Alwin Peng, Julian Michael, Henry Sleight, Ethan Perez, Mrinank Sharma.
 
 https://arxiv.org/pdf/2411.07494
