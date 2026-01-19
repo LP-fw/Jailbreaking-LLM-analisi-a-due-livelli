@@ -4,7 +4,6 @@
 ![Libraries](https://img.shields.io/badge/Libraries-Pandas%20%7C%20Scikit--Learn%20%7C%20Seaborn-brightgreen)
 ![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-%F0%9F%A4%97-yellow)
 ![](https://img.shields.io/badge/Transformer-all--MiniLM--L6--v2-orange)
-![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ---
 
@@ -23,7 +22,6 @@ Il progetto mostra come l'approccio semantico sia più efficace nel riconoscere
 prompt malevoli, riducendo significativamente i **false negatives**
 rispetto al modello basato su feature statistiche.
 
----
 
 ## Metodologia
 - Pulizia e preparazione del dataset
@@ -33,7 +31,6 @@ rispetto al modello basato su feature statistiche.
 - Classificazione semantica
 - Analisi degli errori e clustering dei prompt malevoli
 
----
 
 ## Risultati
 - Migliore recall per la classe *malicious*
