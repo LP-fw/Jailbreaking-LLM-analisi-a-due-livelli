@@ -1,4 +1,4 @@
-# Jailbreaking&LLM: Analisi a due livelli
+# Jailbreaking&LLM: Analisi a due livelli e classificazione famiglie di attacchi più frequenti
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![Libraries](https://img.shields.io/badge/Libraries-Pandas%20%7C%20Scikit--Learn%20%7C%20Seaborn-brightgreen)
@@ -8,7 +8,7 @@
 
 ---
 
-## Motivazioni
+## Introduzione e motivazioni
 
 L'obiettivo del presente progetto è analizzare un dataset di prompt e costruire
 un classificatore capace di distinguere tra **prompt safe** e **prompt malevoli**.
@@ -55,5 +55,6 @@ https://www.kaggle.com/datasets/mohammedaminejebbar/malicious-prompt-detection-d
 
 ![Papers](https://img.shields.io/badge/Papers-Cited-success)
 ### RAPID RESPONSE: MITIGATING LLM JAILBREAKS WITH A FEW EXAMPLES
-Alwin Peng, Julian Michael, Henry Sleight, Ethan Perez, Mrinank Sharma1
+Alwin Peng, Julian Michael, Henry Sleight, Ethan Perez, Mrinank Sharma.
+
 https://arxiv.org/pdf/2411.07494
