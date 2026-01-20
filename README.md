@@ -40,7 +40,6 @@ rispetto al modello basato su feature statistiche.
 - Sentence Transformers (all-MiniLM-L6-v2)
 
 ## Risultati
-- Migliore recall per la classe *malicious*
 - Riduzione dei false negatives
 - Individuazione di famiglie di attacchi jailbreak tramite clustering
 
