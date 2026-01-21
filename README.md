@@ -16,21 +16,17 @@ L'analisi confronta due approcci distinti:
 
 - **Approccio statistico** basato su feature strutturali del prompt  
   (lunghezza, numero di parole, punteggiatura, keyword sospette, ecc.)
-- **Approccio semantico** basato su **embeddings** generati da modelli di linguaggio
+- **Approccio semantico** basato su **embeddings**
 
-Il progetto mostra come l'approccio semantico sia più efficace nel riconoscere
-prompt malevoli, riducendo significativamente i **false negatives**
-rispetto al modello basato su feature statistiche.
+Il progetto mostra come l'approccio semantico sia più efficace nel riconoscere prompt malevoli, riducendo significativamente i **false negatives** rispetto al modello basato su feature statistiche e come possa essere impiegato per classificare gli attacchi e renderli maggiormente riconoscibili come tali.
 
 
-## Metodologia
-(flusso di lavoro workflow procedura...approfondire!!=
-- Pulizia e preparazione del dataset
-- Feature engineering (livello 1)
-- Classificazione statistica
-- Generazione embeddings (livello 2)
-- Classificazione semantica
-- Analisi degli errori e clustering dei prompt malevoli
+## Workflow
+1. Pulizia e preparazione dei dati
+2. Analisi esplorativa (Exploratory Data Analysis)
+3. Primo livello di analisi (strutturale)
+4. Secondo livello di analisi (statistica)
+5. Clustering sugli embeddings
 
 
 ---
