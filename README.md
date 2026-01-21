@@ -36,7 +36,7 @@ Il progetto mostra come l'approccio semantico sia più efficace nel riconoscere 
 - Sentence Transformers (all-MiniLM-L6-v2)
 
 ## Risultati
-- Riduzione dei false negatives
+- Dimostrazione della superiorità del modello semantico
 - Individuazione di famiglie di attacchi jailbreak tramite clustering
 
 ---
