@@ -1,5 +1,5 @@
 # Jailbreaking&LLM: Analisi a due livelli e classificazione famiglie di attacchi più frequenti 
-(ITALIAN VERSION, TRANSLATION IS COOKING 🍝)
+(this ITALIAN VERSION is complete)
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![Libraries](https://img.shields.io/badge/Libraries-Pandas%20%7C%20Scikit--Learn%20%7C%20Seaborn-brightgreen)
